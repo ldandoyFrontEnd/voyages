@@ -21,3 +21,14 @@ section.bg-green {
     color: var(--light-color);
     background-color: var(--dark-green-color);
 }
+
+
+.tips {
+    margin-top: 3rem;
+}
+
+.tips li {
+    margin: 1rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+}

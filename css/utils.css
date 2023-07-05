@@ -68,3 +68,7 @@ img.responsive {
     text-align: center;
     text-shadow: var(--dark-green-color) 1px 0 10px;
 }
+
+.w-50 {
+    width: 50%;
+}
