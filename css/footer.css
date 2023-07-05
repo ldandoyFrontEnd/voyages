@@ -1,0 +1,56 @@
+footer {
+    margin-top: 100px;
+    padding: 20px 0 0 0;
+    color: var(--light-color);
+    background-color: var(--main-bg-menu-color);
+}
+
+footer .row {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid var(--light-green-color);
+}
+
+footer .promo {
+    text-align: center;
+    width: 100%;
+    padding: 50px 0 100px;
+}
+
+footer .promo h1 {
+    font-size: 3rem;
+}
+
+footer .promo p {
+    font-size: .75rem;
+    font-style: italic;
+}
+
+footer .links {
+    padding: 50px 0;
+}
+
+footer .links .rs {
+    display: flex;
+}
+
+footer .links .rs .icon {
+    width: 30px;
+    height: 30px;
+    margin: 0 20px;
+}
+
+footer h3 {
+    padding: 50px 0 0;
+}
+
+footer ul {
+    list-style-type: none;
+    padding: 20px 0 50px;
+}
+
+footer a {
+    color: var(--light-color);
+    text-decoration: none;
+    text-transform: capitalize;
+}

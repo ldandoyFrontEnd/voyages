@@ -1,0 +1,11 @@
+.hero {
+    background-image: url('../img/banner.jpg');
+    background-size: cover;
+    background-position: center center;
+    padding: 150px 0;
+    text-align: center;
+    font-size: 3rem;
+    color: var(--light-color);
+    text-shadow: var(--dark-green-color) 1px 0 10px;
+    width: 100%;
+}

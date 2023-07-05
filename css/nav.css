@@ -1,0 +1,22 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    color: var(--light-color);
+    background-color: var(--main-bg-menu-color);
+}
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+}
+
+nav ul li a {
+    display: block;
+    color: var(--light-color);
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+nav ul li a:hover {
+    background-color: var(--light-green-color);
+}
