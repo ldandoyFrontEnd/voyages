@@ -8,7 +8,6 @@ footer {
 footer .row {
     display: flex;
     justify-content: space-between;
-    border-bottom: 1px solid var(--light-green-color);
 }
 
 footer .promo {
